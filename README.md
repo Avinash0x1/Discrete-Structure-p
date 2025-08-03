@@ -24,6 +24,31 @@ This repository contains C programs for discrete structure operations and truth 
 - Prints truth table for logical IMPLICATION operation
 - Shows results for A → B
 
+### 5. Binary Addition
+**File:** `Addition-of-binary-numbers.c`
+- Performs addition of two binary numbers
+- Implements binary arithmetic with carry
+
+### 6. Binary Subtraction
+**File:** `program-to-find-difference-of-two-numbers.c`
+- Performs subtraction of two binary numbers
+- Implements binary arithmetic with borrowing
+
+### 7. Binary Multiplication
+**File:** `program-to-find-the-product-of-two-binary-number.c`
+- Performs multiplication of two binary numbers
+- Uses shift and add algorithm
+
+### 8. Euclidean Algorithm
+**File:** `program-to-implement-Euclidian-algorithms.c`
+- Implements Euclidean algorithm for finding GCD
+- Shows step-by-step calculation
+
+### 9. Tautology Proof
+**File:** `program-to-prove-that--is-tautology.c`
+- Proves logical tautologies using truth tables
+- Demonstrates logical equivalences
+
 ## How to Compile and Run
 
 1. **Compile:**
