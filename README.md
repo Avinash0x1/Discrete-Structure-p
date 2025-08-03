@@ -14,7 +14,12 @@ This repository contains C programs for discrete structure operations and truth 
 - Prints truth table for logical OR operation
 - Shows results for A ∨ B
 
-### 3. IMPLICATION Operation
+### 3. NOT Operation
+**File:** `program-to-print-truth-table-of-NOT-operation.c`
+- Prints truth table for logical NOT operation
+- Shows results for ~A
+
+### 4. IMPLICATION Operation
 **File:** `program-to-print-truth-table-of-IMPLICION-Operation.c`
 - Prints truth table for logical IMPLICATION operation
 - Shows results for A → B
@@ -48,6 +53,12 @@ This repository contains C programs for discrete structure operations and truth 
 | 0 | 1 |   1   |
 | 1 | 0 |   1   |
 | 1 | 1 |   1   |
+
+### NOT Operation (~A)
+| A | ~A |
+|---|----| 
+| 0 |  1 |
+| 1 |  0 |
 
 ### IMPLICATION Operation (A → B)
 | A | B | A → B |
