@@ -1,0 +1,17 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore IDE files
+*.vscode/
+*.dev
+*.cbp
+
+# Ignore system files
+Thumbs.db
+.DS_Store
