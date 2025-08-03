@@ -2,6 +2,34 @@
 
 This repository contains C programs for discrete structure operations and truth tables.
 
+## Table of Contents
+
+1. [Logical Operations](#logical-operations)
+   - [AND Operation](#1-and-operation)
+   - [OR Operation](#2-or-operation)
+   - [NOT Operation](#3-not-operation)
+   - [IMPLICATION Operation](#4-implication-operation)
+
+2. [Binary Arithmetic Operations](#binary-arithmetic-operations)
+   - [Binary Addition](#5-binary-addition)
+   - [Binary Subtraction](#6-binary-subtraction)
+   - [Binary Multiplication](#7-binary-multiplication)
+
+3. [Mathematical Algorithms](#mathematical-algorithms)
+   - [Euclidean Algorithm](#8-euclidean-algorithm)
+   - [Tautology Proof](#9-tautology-proof)
+
+4. [How to Compile and Run](#how-to-compile-and-run)
+5. [Truth Tables Reference](#truth-tables)
+
+---
+
+## Logical Operations
+
+---
+
+## Logical Operations
+
 ## Programs Included
 
 ### 1. AND Operation
@@ -24,6 +52,10 @@ This repository contains C programs for discrete structure operations and truth 
 - Prints truth table for logical IMPLICATION operation
 - Shows results for A → B
 
+---
+
+## Binary Arithmetic Operations
+
 ### 5. Binary Addition
 **File:** `Addition-of-binary-numbers.c`
 - Performs addition of two binary numbers
@@ -39,6 +71,10 @@ This repository contains C programs for discrete structure operations and truth 
 - Performs multiplication of two binary numbers
 - Uses shift and add algorithm
 
+---
+
+## Mathematical Algorithms
+
 ### 8. Euclidean Algorithm
 **File:** `program-to-implement-Euclidian-algorithms.c`
 - Implements Euclidean algorithm for finding GCD
@@ -48,6 +84,8 @@ This repository contains C programs for discrete structure operations and truth 
 **File:** `program-to-prove-that--is-tautology.c`
 - Proves logical tautologies using truth tables
 - Demonstrates logical equivalences
+
+---
 
 ## How to Compile and Run
 
@@ -60,6 +98,8 @@ This repository contains C programs for discrete structure operations and truth 
    ```bash
    ./output.exe
    ```
+
+---
 
 ## Truth Tables
 
@@ -92,6 +132,19 @@ This repository contains C programs for discrete structure operations and truth 
 | 0 | 1 |   1   |
 | 1 | 0 |   0   |
 | 1 | 1 |   1   |
+
+---
+
+## Summary
+
+This repository contains **9 comprehensive C programs** covering:
+- **4 Logical Operations**: AND, OR, NOT, IMPLICATION
+- **3 Binary Arithmetic**: Addition, Subtraction, Multiplication  
+- **2 Mathematical Algorithms**: Euclidean Algorithm, Tautology Proof
+
+All programs are well-documented, tested, and ready to compile and run.
+
+---
 
 ## Author
 Avinash
